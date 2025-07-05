@@ -1,0 +1,15 @@
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\bin\Debug\lesson_25_07_001.exe.config
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\bin\Debug\lesson_25_07_001.exe
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\bin\Debug\lesson_25_07_001.pdb
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\obj\Debug\lesson_25_07_001.csproj.AssemblyReference.cache
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\obj\Debug\MainWindow.g.cs
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\obj\Debug\App.g.cs
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\obj\Debug\lesson_25_07_001_MarkupCompile.cache
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\obj\Debug\lesson_25_07_001_MarkupCompile.lref
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\obj\Debug\MainWindow.baml
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\obj\Debug\lesson_25_07_001.g.resources
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\obj\Debug\lesson_25_07_001.Properties.Resources.resources
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\obj\Debug\lesson_25_07_001.csproj.GenerateResource.cache
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\obj\Debug\lesson_25_07_001.csproj.CoreCompileInputs.cache
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\obj\Debug\lesson_25_07_001.exe
+C:\Users\tokot\source\repos\lesson_25_07_001\lesson_25_07_001\obj\Debug\lesson_25_07_001.pdb

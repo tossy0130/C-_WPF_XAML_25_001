@@ -1,0 +1,55 @@
+﻿<Window x:Class="lesson_25_07_001.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lesson_25_07_001"
+        mc:Ignorable="d"
+        Title="画像描画_25_07_001_APP" Height="600" Width="800">
+    
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- 操作パネル -->
+        <StackPanel Orientation="Horizontal" Margin="0, 0, 0, 10">
+            <Button Content="画像を読み込む" Click="LoadImage_Click" Margin="0, 0, 10, 0" />
+            <TextBlock Text="X:" VerticalAlignment="Center" />
+            <TextBox x:Name="XInput" Width="50" Margin="5" />
+
+            <TextBlock Text="Y:" VerticalAlignment="Center" />
+            <TextBox x:Name="YInput" Width="50" Margin="5" />
+            
+            <!-- 分割 -->
+            <TextBlock Text="分割数：" VerticalAlignment="Center" />
+            <TextBox x:Name="DivisionInput" Width="50" Margin="5" />
+
+            <Button Content="描画" Click="DrawRectangle_Click" />
+
+            <!-- 画像と描画用Canvas 
+            <ScrollViewer Grid.Row="1">
+                <Canvas x:Name="ImageCanvas">
+                    <Image x:Name="LoadedImage" />
+                </Canvas>
+            </ScrollViewer>
+            -->
+
+            <!-- 画像と描画Canvas 02 -->
+            <ScrollViewer Grid.Row="1">
+                <Canvas x:Name="ImageCanvas"
+                    Background="Transparent"
+                    MouseLeftButtonDown="Canvas_MouseLeftButtonDown"
+                    MouseMove="Canvas_MouseMove"
+                    MouseLeftButtonUp="Canvas_MouseLeftButtonUp">
+                    <Image x:Name="LoadedImage"/>
+                </Canvas>
+            </ScrollViewer>
+
+        </StackPanel>
+
+    </Grid>
+    
+    
+</Window>
