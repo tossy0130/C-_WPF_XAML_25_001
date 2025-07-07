@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tokot\\source\\repos\\Sikakku_Kakomi_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05718EA7-349C-434B-8DAA-186770F8EBFF}|Sikakku_Kakomi_02\\Sikakku_Kakomi_02.csproj|c:\\users\\tokot\\source\\repos\\sikakku_kakomi_02\\sikakku_kakomi_02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05718EA7-349C-434B-8DAA-186770F8EBFF}|Sikakku_Kakomi_02\\Sikakku_Kakomi_02.csproj|solutionrelative:sikakku_kakomi_02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05718EA7-349C-434B-8DAA-186770F8EBFF}|Sikakku_Kakomi_02\\Sikakku_Kakomi_02.csproj|c:\\users\\tokot\\source\\repos\\sikakku_kakomi_02\\sikakku_kakomi_02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05718EA7-349C-434B-8DAA-186770F8EBFF}|Sikakku_Kakomi_02\\Sikakku_Kakomi_02.csproj|solutionrelative:sikakku_kakomi_02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tokot\\source\\repos\\Sikakku_Kakomi_02\\Sikakku_Kakomi_02\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Sikakku_Kakomi_02\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tokot\\source\\repos\\Sikakku_Kakomi_02\\Sikakku_Kakomi_02\\MainWindow.xaml",
+              "RelativeToolTip": "Sikakku_Kakomi_02\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-07T06:32:39.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tokot\\source\\repos\\Sikakku_Kakomi_02\\Sikakku_Kakomi_02\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Sikakku_Kakomi_02\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tokot\\source\\repos\\Sikakku_Kakomi_02\\Sikakku_Kakomi_02\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Sikakku_Kakomi_02\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:32:39.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
