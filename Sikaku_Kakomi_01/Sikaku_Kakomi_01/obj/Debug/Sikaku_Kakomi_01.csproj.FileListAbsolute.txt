@@ -1,0 +1,6 @@
+C:\Users\tokot\source\repos\Sikaku_Kakomi_01\Sikaku_Kakomi_01\obj\Debug\Sikaku_Kakomi_01.csproj.AssemblyReference.cache
+C:\Users\tokot\source\repos\Sikaku_Kakomi_01\Sikaku_Kakomi_01\obj\Debug\MainWindow.g.cs
+C:\Users\tokot\source\repos\Sikaku_Kakomi_01\Sikaku_Kakomi_01\obj\Debug\App.g.cs
+C:\Users\tokot\source\repos\Sikaku_Kakomi_01\Sikaku_Kakomi_01\obj\Debug\Sikaku_Kakomi_01_Content.g.cs
+C:\Users\tokot\source\repos\Sikaku_Kakomi_01\Sikaku_Kakomi_01\obj\Debug\Sikaku_Kakomi_01_MarkupCompile.cache
+C:\Users\tokot\source\repos\Sikaku_Kakomi_01\Sikaku_Kakomi_01\obj\Debug\Sikaku_Kakomi_01_MarkupCompile.lref
